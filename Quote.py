@@ -7,7 +7,8 @@ quotes = [
     "Do what you can, with what you have, where you are.",
     "Success is not final, failure is not fatal: It is the courage to continue that counts.",
     "The best time to plant a tree was 20 years ago. The second best time is now.",
-    "It does not matter how slowly you go as long as you do not stop."
+    "It does not matter how slowly you go as long as you do not stop.",
+    "큰 목표를 이루고 싶으면 허락을 구하지 마라. "
 ]
 
 # 제목
